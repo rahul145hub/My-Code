@@ -1,2 +1,2 @@
 console.log('about2');
-console.log('file removed');
+console.log('file removed failed');
